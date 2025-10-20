@@ -32,8 +32,11 @@ The dataset includes anonymized customer transactions, rentals, and movie inform
 
 ## Repository Structure
 rockbuster-sql-queries/
+
 ├─ queries/ # SQL scripts organized by business question
+
 ├─ assets/ # Optional: screenshots or example outputs
+
 └─ README.md # This overview file
 
 ## Notes
